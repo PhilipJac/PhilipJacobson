@@ -6,24 +6,22 @@ bio: My research interests include distributed robotics, mobile computing and pr
   
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc in Marine Ecology
+    institution: Stockholm University
+    year: 2015
+  - course: BSc in Marine Biology
+    institution: Stockholm University
+    year: 2013
     
 email: "philip.jacobson@slu.se"
 
 
 interests:
-- Fish Ecology
+- Food-web dynamics
 - Predator-prey interactions
-- Fisheries management
 - Trophic interactions
+- Fish Ecology
+- Fisheries management
 
 
 name: Philip Jacobson
@@ -80,7 +78,7 @@ user_groups:
 
 Hello, 
 
-I am a PhD-student at SLU-Aqua since 2015 studying the effects of size-dependent predator-prey interactions on individual performance, population dynamics, multi-species management and bioaccumulation of hazardous substances using Atlantic salmon as my model species and the Baltic Sea as my study system. I have a broad general interest in aquatic ecology but I am primarily interested in doing research focusing on fish ecology and I find the bridge between theoretical, experimental and empirical studies fascinating. My PhD-project is mainly based on empirical studies and hypothesis testing, using large datasets of collected data from the 1950s to present time. In addition, I will also develop a theoretical size-strucutred biomass model to theoretically study the effects of size-dependent predator-prey interactions on the population regulation of anadromous fish. 
+I am a PhD-student at SLU-Aqua since 2015 studying the effects of size-dependent predator-prey interactions on individual performance, population dynamics, multi-species management and bioaccumulation of hazardous substances using Atlantic salmon as my model species and the Baltic Sea as my study system. I have a broad general interest in aquatic ecology but I am primarily interested in doing research focusing on fish ecology and I find the bridge between theoretical, experimental and empirical studies fascinating. My PhD-project is mainly based on empirical studies and hypothesis testing, using large datasets of collected data from the 1950s to present time. In addition, I will develop a theoretical size-strucutred biomass model to theoretically study the effects of size-dependent predator-prey interactions on the population regulation of anadromous fish. 
 
 Before starting my PhD-studies, I took my masters degree at Stockholms University in Marine Ecology and conducted my master thesis project within the Plant-Fish project during which I spent a lot of time both in the field and in the lab doing stomach content analyses on perch and pike.
 
