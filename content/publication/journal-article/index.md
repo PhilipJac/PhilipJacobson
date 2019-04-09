@@ -1,18 +1,22 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+
 authors:
+- Serena Donadi 
+- Åsa Nilsson Austin
+- Ulf Bergström
+- Brtias Klemens Eriksson
+- Joakim Hansen
 - admin
-date: "2015-09-01T00:00:00+02:00"
-doi: ""
+- Göran Sundblad
+- Marin van Regteren
+- Joahn Eklöf
+
+
+date: "2017-07-01"
+doi: "https://doi.org/10.1098/rspb.2017.0045"
 featured: false
 #image:
-  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  #caption: ''
  # focal_point: ""
 projects: []
 publication: '*Journal of Source Themes, 1*(1)'
@@ -27,10 +31,10 @@ tags:
 title: An example journal article
 url_code: ""
 url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://royalsocietypublishing.org/doi/full/10.1098/rspb.2017.0045
 url_poster: ""
 url_project: ""
-url_slides: ""
+#url_slides: ""
 url_source: ""
 url_video: ""
 ---
