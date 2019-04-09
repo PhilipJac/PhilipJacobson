@@ -14,7 +14,7 @@ authors:
 
 date: "2017-07-01"
 doi: "0.1098/rspb.2017.0045"
-#featured: false
+featured: false
 #image:
   #caption: ''
  # focal_point: ""
@@ -26,7 +26,7 @@ publication_types:
 #slides: example-slides
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
   #ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-#tags:
+tags:
 - Source Themes
 title: A cross-scale trophic cascade from large predatory fish to algae in coastal ecosystems
 #url_code: ""
@@ -37,5 +37,5 @@ title: A cross-scale trophic cascade from large predatory fish to algae in coast
 #url_slides: ""
 #url_source: ""
 #url_video: ""
-#---
+---
 
