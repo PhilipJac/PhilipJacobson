@@ -6,10 +6,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
   
 education:
   courses:
-  - course: MSc in Marine Ecology
+  - course: Master of Science in Marine Ecology
     institution: Stockholm University
     year: 2015
-  - course: BSc in Marine Biology
+  - course: Bachelor degree in Marine Biology
     institution: Stockholm University
     year: 2013
     
@@ -17,9 +17,8 @@ email: "philip.jacobson@slu.se"
 
 
 interests:
-- Food-web dynamics
 - Predator-prey interactions
-- Trophic interactions
+- Trophic cascades
 - Fish Ecology
 - Fisheries management
 
