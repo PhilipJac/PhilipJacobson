@@ -11,9 +11,9 @@ authors:
 date: "2015-09-01T00:00:00+02:00"
 doi: ""
 featured: false
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
+#image:
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+ # focal_point: ""
 projects: []
 publication: '*Journal of Source Themes, 1*(1)'
 publication_short: ""
