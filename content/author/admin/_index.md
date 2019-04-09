@@ -16,14 +16,14 @@ education:
     year: 2008
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Nelson Bighetti
+- Fish ecology
+- Predator-prey interactions
+- Fisheries
+name: Philip Jacobson
 organizations:
-- name: Stanford University
+- name: Swedish University of Agricultural Sciences, Department of Aquatic Resources
   url: ""
-role: Professor of Artificial Intelligence
+role: PhD-student
 social:
 - icon: envelope
   icon_pack: fas
