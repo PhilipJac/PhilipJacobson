@@ -31,7 +31,7 @@ tags:
 title: A cross-scale trophic cascade from large predatory fish to algae in coastal ecosystems
 #url_code: ""
 #url_dataset: ""
-url_pdf: https://royalsocietypublishing.org/doi/full/10.1098/rspb.2017.0045
+url_pdf: https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2017.0045
 #url_poster: ""
 #url_project: ""
 #url_slides: ""
