@@ -27,15 +27,15 @@ publication_types:
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
   #ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 #tags:
-- Source Themes
-title: An example journal article
-url_code: ""
-url_dataset: ""
-url_pdf: https://royalsocietypublishing.org/doi/full/10.1098/rspb.2017.0045
-url_poster: ""
-url_project: ""
+#- Source Themes
+#title: An example journal article
+#url_code: ""
+#url_dataset: ""
+#url_pdf: https://royalsocietypublishing.org/doi/full/10.1098/rspb.2017.0045
+#url_poster: ""
+#url_project: ""
 #url_slides: ""
-url_source: ""
-url_video: ""
----
+#url_source: ""
+#url_video: ""
+#---
 
