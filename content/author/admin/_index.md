@@ -3,6 +3,7 @@ authors:
 - admin
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
+  
 education:
   courses:
   - course: PhD in Artificial Intelligence
@@ -14,29 +15,45 @@ education:
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2008
-email: ""
+    
+email: "philip.jacobson@slu.se"
+
+
 interests:
-- Fish ecology
+- Fish Ecology
 - Predator-prey interactions
 - Fisheries
+
+
 name: Philip Jacobson
+
 organizations:
 - name: Swedish University of Agricultural Sciences, Department of Aquatic Resources
   url: ""
 role: PhD-student
+
+
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
+  
+  
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
+  
+  
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  
+  
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
+  
+  
 superuser: true
 user_groups:
 - Researchers
