@@ -15,7 +15,7 @@ featured: false
   #caption: ''
  # focal_point: ""
 projects: []
-publication: '*Ecosphere 9*(1)'
+publication: '*Ecosphere 10*(1)'
 publication_short: ""
 publication_types:
 - "2"
