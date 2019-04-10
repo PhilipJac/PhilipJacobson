@@ -24,7 +24,7 @@ publication_types:
   #ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: "Size-dependent prey availability affects diet and performanceof predatory fish at sea: a case study of Atlantic salmon"
+title: "Size-dependent prey availability affects diet and performance of predatory fish at sea: a case study of Atlantic salmon"
 #url_code: ""
 #url_dataset: ""
 url_pdf: https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1002/ecs2.2081
