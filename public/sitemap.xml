@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
@@ -9,13 +8,80 @@
   
     <url>
     
+      <loc>/</loc>
+      <lastmod>2030-06-01T13:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/talk/</loc>
+      <lastmod>2030-06-01T13:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication_types/3/</loc>
+      <lastmod>2019-04-07T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>/publication/preprint/</loc>
       <lastmod>2019-04-07T00:00:00+02:00</lastmod>
     </url>
   
     <url>
     
+      <loc>/authors/</loc>
+      <lastmod>2019-04-07T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/publication_types/</loc>
+      <lastmod>2019-04-07T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/</loc>
+      <lastmod>2019-04-07T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/source-themes/</loc>
+      <lastmod>2019-04-07T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2019-04-07T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/admin/</loc>
+      <lastmod>2019-04-07T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>/post/jupyter/</loc>
+      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/post/</loc>
       <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     </url>
   
@@ -39,95 +105,110 @@
   
     <url>
     
-      <loc>/project/external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/project/internal-project/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/publication/journal-article/</loc>
-      <lastmod>2015-09-01T00:00:00+02:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/post/2015-07-23-r-rmarkdown/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/publication/conference-paper/</loc>
-      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/author/admin/</loc>
-    </url>
-  
-    <url>
-    
-      <loc>/publication_types/1/</loc>
-      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
+      <loc>/publication/jacobson-2018-ecosphere/</loc>
+      <lastmod>2018-01-19T00:00:00+00:00</lastmod>
     </url>
   
     <url>
     
       <loc>/publication_types/2/</loc>
-      <lastmod>2015-09-01T00:00:00+02:00</lastmod>
+      <lastmod>2018-01-19T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>/publication_types/3/</loc>
-      <lastmod>2019-04-07T00:00:00+02:00</lastmod>
+      <loc>/authors/anna-g%C3%A5rdmark/</loc>
+      <lastmod>2018-01-19T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>/</loc>
-      <lastmod>2030-06-01T13:00:00+02:00</lastmod>
+      <loc>/authors/johan-%C3%B6stergren/</loc>
+      <lastmod>2018-01-19T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
+      <loc>/authors/magnus-huss/</loc>
+      <lastmod>2018-01-19T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>/author/</loc>
+      <loc>/authors/michele-casini/</loc>
+      <lastmod>2018-01-19T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>/authors/</loc>
+      <loc>/publication/donadi-2017-kopia/</loc>
+      <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/donadi-2017/</loc>
+      <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/brtias-klemens-eriksson/</loc>
+      <lastmod>2017-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>/categories/</loc>
+      <loc>/authors/g%C3%B6ran-sundblad/</loc>
+      <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/joahn-ekl%C3%B6f/</loc>
+      <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/joakim-hansen/</loc>
+      <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/marin-van-regteren/</loc>
+      <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/serena-donadi/</loc>
+      <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/ulf-bergstr%C3%B6m/</loc>
+      <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/%C3%A5sa-nilsson-austin/</loc>
+      <lastmod>2017-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -147,8 +228,14 @@
   
     <url>
     
-      <loc>/post/</loc>
-      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+      <loc>/project/external-project/</loc>
+      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/project/internal-project/</loc>
+      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
     </url>
   
     <url>
@@ -160,15 +247,28 @@
   
     <url>
     
-      <loc>/publication_types/</loc>
-      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+      <loc>/tags/academic/</loc>
+      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>/publication/</loc>
-      <lastmod>2019-04-07T00:00:00+02:00</lastmod>
+      <loc>/post/getting-started/</loc>
+      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/categories/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/post/2015-07-23-r-rmarkdown/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     </url>
   
     <url>
@@ -187,14 +287,51 @@
   
     <url>
     
-      <loc>/talk/</loc>
-      <lastmod>2030-06-01T13:00:00+02:00</lastmod>
+      <loc>/tags/plot/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/regression/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/publication_types/1/</loc>
+      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/conference-paper/</loc>
+      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
     </url>
   
     <url>
     
       <loc>/authors/robert-ford/</loc>
       <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/author/admin/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>/home/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>/author/</loc>
       <priority>0</priority>
     </url>
   
@@ -207,41 +344,6 @@
     <url>
     
       <loc>/slides/example-slides/</loc>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/source-themes/</loc>
-      <lastmod>2019-04-07T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/authors/admin/</loc>
-      <lastmod>2019-04-07T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/plot/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/regression/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
     </url>
   
 </urlset>

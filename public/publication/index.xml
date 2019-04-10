@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Academic</title>
+    <title>Publications on Philip Jacobson</title>
     <link>/publication/</link>
-    <description>Recent content in Publications on Academic</description>
+    <description>Recent content in Publications on Philip Jacobson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0200</lastBuildDate>
@@ -17,18 +17,34 @@
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0200</pubDate>
       
       <guid>/publication/preprint/</guid>
-      <description> Supplementary notes can be added here, including code and math.
-  </description>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</description>
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
+      <title></title>
+      <link>/publication/jacobson-2018-ecosphere/</link>
+      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/journal-article/</guid>
-      <description> Supplementary notes can be added here, including code and math.
-  </description>
+      <guid>/publication/jacobson-2018-ecosphere/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A cross-scale trophic cascade from large predatory fish to algae in coastal ecosystems</title>
+      <link>/publication/donadi-2017-kopia/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/donadi-2017-kopia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A cross-scale trophic cascade from large predatory fish to algae in coastal ecosystems</title>
+      <link>/publication/donadi-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/donadi-2017/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -37,8 +53,7 @@
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
       
       <guid>/publication/conference-paper/</guid>
-      <description> Supplementary notes can be added here, including code and math.
-  </description>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</description>
     </item>
     
   </channel>

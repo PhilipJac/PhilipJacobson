@@ -1,24 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 on Academic</title>
+    <title>2 on Philip Jacobson</title>
     <link>/publication_types/2/</link>
-    <description>Recent content in 2 on Academic</description>
+    <description>Recent content in 2 on Philip Jacobson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>An example journal article</title>
-      <link>/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
+      <title></title>
+      <link>/publication/jacobson-2018-ecosphere/</link>
+      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/journal-article/</guid>
-      <description> Supplementary notes can be added here, including code and math.
-  </description>
+      <guid>/publication/jacobson-2018-ecosphere/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A cross-scale trophic cascade from large predatory fish to algae in coastal ecosystems</title>
+      <link>/publication/donadi-2017-kopia/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/donadi-2017-kopia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A cross-scale trophic cascade from large predatory fish to algae in coastal ecosystems</title>
+      <link>/publication/donadi-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/donadi-2017/</guid>
+      <description></description>
     </item>
     
   </channel>

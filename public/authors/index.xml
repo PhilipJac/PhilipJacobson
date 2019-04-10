@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Academic</title>
+    <title>Authors on Philip Jacobson</title>
     <link>/authors/</link>
-    <description>Recent content in Authors on Academic</description>
+    <description>Recent content in Authors on Philip Jacobson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Robert Ford</title>
-      <link>/authors/robert-ford/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
-      
-      <guid>/authors/robert-ford/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>admin</title>
@@ -25,6 +17,123 @@
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0200</pubDate>
       
       <guid>/authors/admin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anna Gårdmark</title>
+      <link>/authors/anna-g%C3%A5rdmark/</link>
+      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/anna-g%C3%A5rdmark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Johan Östergren</title>
+      <link>/authors/johan-%C3%B6stergren/</link>
+      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/johan-%C3%B6stergren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnus Huss</title>
+      <link>/authors/magnus-huss/</link>
+      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/magnus-huss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michele Casini</title>
+      <link>/authors/michele-casini/</link>
+      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/michele-casini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brtias Klemens Eriksson</title>
+      <link>/authors/brtias-klemens-eriksson/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/brtias-klemens-eriksson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Göran Sundblad</title>
+      <link>/authors/g%C3%B6ran-sundblad/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/g%C3%B6ran-sundblad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joahn Eklöf</title>
+      <link>/authors/joahn-ekl%C3%B6f/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/joahn-ekl%C3%B6f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joakim Hansen</title>
+      <link>/authors/joakim-hansen/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/joakim-hansen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marin van Regteren</title>
+      <link>/authors/marin-van-regteren/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/marin-van-regteren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serena Donadi</title>
+      <link>/authors/serena-donadi/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/serena-donadi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ulf Bergström</title>
+      <link>/authors/ulf-bergstr%C3%B6m/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/ulf-bergstr%C3%B6m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Åsa Nilsson Austin</title>
+      <link>/authors/%C3%A5sa-nilsson-austin/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/%C3%A5sa-nilsson-austin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>/authors/robert-ford/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
+      
+      <guid>/authors/robert-ford/</guid>
       <description></description>
     </item>
     

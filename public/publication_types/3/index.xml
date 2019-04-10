@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 on Academic</title>
+    <title>3 on Philip Jacobson</title>
     <link>/publication_types/3/</link>
-    <description>Recent content in 3 on Academic</description>
+    <description>Recent content in 3 on Philip Jacobson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0200</lastBuildDate>
@@ -17,8 +17,7 @@
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0200</pubDate>
       
       <guid>/publication/preprint/</guid>
-      <description> Supplementary notes can be added here, including code and math.
-  </description>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</description>
     </item>
     
   </channel>
