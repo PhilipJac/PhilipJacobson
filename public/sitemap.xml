@@ -75,6 +75,47 @@
   
     <url>
     
+      <loc>/publication_types/2/</loc>
+      <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/anna-g%C3%A5rdmark/</loc>
+      <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/huss-et-al-2019-gcb/</loc>
+      <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/magnus-huss/</loc>
+      <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/max-lindmark/</loc>
+      <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/renee-van-dorst/</loc>
+      <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>/post/jupyter/</loc>
       <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     </url>
@@ -105,28 +146,7 @@
   
     <url>
     
-      <loc>/publication_types/2/</loc>
-      <lastmod>2018-01-19T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/authors/anna-g%C3%A5rdmark/</loc>
-      <lastmod>2018-01-19T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
       <loc>/authors/johan-%C3%B6stergren/</loc>
-      <lastmod>2018-01-19T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/authors/magnus-huss/</loc>
       <lastmod>2018-01-19T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
