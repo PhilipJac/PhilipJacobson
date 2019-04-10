@@ -105,15 +105,15 @@
   
     <url>
     
-      <loc>/publication/jacobson-2018-ecosphere/</loc>
+      <loc>/publication_types/2/</loc>
       <lastmod>2018-01-19T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>/publication_types/2/</loc>
+      <loc>/publication/jacobson-2018-ecosphere/</loc>
       <lastmod>2018-01-19T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
   
     <url>
@@ -142,12 +142,6 @@
       <loc>/authors/michele-casini/</loc>
       <lastmod>2018-01-19T00:00:00+00:00</lastmod>
       <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/publication/donadi-2017-kopia/</loc>
-      <lastmod>2017-07-01T00:00:00+00:00</lastmod>
     </url>
   
     <url>
