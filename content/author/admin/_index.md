@@ -4,10 +4,10 @@ authors:
   
 education:
   courses:
-  - course: Master of Science in Marine Ecology
+  - course: Master of Science, Marine Ecology
     institution: Stockholm University
     year: 2015
-  - course: Bachelor degree in Marine Biology
+  - course: Bachelor degree, Biology
     institution: Stockholm University
     year: 2013
     
