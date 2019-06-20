@@ -15,7 +15,7 @@ featured: false
   #caption: ''
  # focal_point: ""
 projects: []
-publication: '*Global Change Biology, 25, 7, pp.2285–229*'
+publication: '*Global Change Biology, 25, 7, pp. 2285–229*'
 publication_short: ""
 publication_types:
 - "2"
