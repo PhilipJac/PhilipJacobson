@@ -13,7 +13,7 @@ featured: false
   #caption: ''
  # focal_point: ""
 projects: []
-publication: '*Boreal Environmental Research 24*'
+publication: '*Boreal Environmental Research 24* Accepted'
 publication_short: ""
 publication_types:
 - "2"
@@ -25,7 +25,7 @@ tags:
 title: "Size-dependent diet composition and feeding of Eurasian perch (Perca fluviatilis) and northern pike (Esox lucius) in the Baltic Sea"
 #url_code: ""
 #url_dataset: ""
-url_pdf: ""
+url_pdf: "Not available"
 #url_poster: ""
 #url_project: ""
 #url_slides: ""
