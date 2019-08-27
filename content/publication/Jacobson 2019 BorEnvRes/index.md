@@ -22,7 +22,7 @@ publication_types:
   #ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: "Size-dependent diet composition and feeding of Eurasian perch (Perca fluviatilis) and northern pike (Esox lucius) in the Baltic Sea"
+title: "Size-dependent diet composition and feeding of Eurasian perch (*Perca fluviatilis*) and northern pike (*Esox lucius*) in the Baltic Sea"
 #url_code: ""
 #url_dataset: ""
 url_pdf: "Not available"
