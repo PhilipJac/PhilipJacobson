@@ -19,6 +19,7 @@ interests:
 - Trophic cascades
 - Fish ecology
 - Fisheries management
+- Life-history variation
 
 
 name: Philip Jacobson
