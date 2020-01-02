@@ -15,11 +15,13 @@ email: "philip.jacobson@slu.se"
 
 
 interests:
+- Fish ecology
+- Habitat shifts
+- Life-history variation
 - Predator-prey interactions
 - Trophic cascades
-- Fish ecology
-- Fisheries management
-- Life-history variation
+
+
 
 
 name: Philip Jacobson
