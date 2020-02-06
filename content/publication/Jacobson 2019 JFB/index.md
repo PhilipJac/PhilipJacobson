@@ -6,14 +6,14 @@ authors:
 - Magnus Huss
 
 
-date: "2019-11-24"
+date: "2020-02-06"
 doi: "https://doi.org/10.1111/jfb.14213"
 featured: false
 #image:
   #caption: ''
  # focal_point: ""
 projects: []
-publication: '*Journal of Fish Biology, Early View*'
+publication: '*Journal of Fish Biology, 96, pp. 408-417*'
 publication_short: ""
 publication_types:
 - "2"
